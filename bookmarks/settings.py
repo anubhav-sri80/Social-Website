@@ -34,6 +34,7 @@ INSTALLED_APPS = [
 
     'django_extensions',# for werkzeug,pyOpenSSL,RUnServerplus
     'social_django',
+    'images.apps.ImagesConfig',
     'account.apps.AccountConfig',
     'django.contrib.admin',
     'django.contrib.auth',
